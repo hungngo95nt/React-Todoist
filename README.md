@@ -15,11 +15,11 @@ Workflow: VSCode (GitHub pro theme), iTerm2, Lighthouse (for accessibility testi
 0:02:26 - Showing the final application (with dark mode!)\
 0:05:00 - Installing create react app\
 0:07:15 - Clearing out what we don't need from create react app\
-<mark>0:10:57 - Let's get building our components!<mark>\
-0:18:00 - Installing packages using Yarn\
-0:18:22 - Building the Header component\
-0:19:57 - Building the Content component\
-0:20:37 - Building the Sidebar component\
+**0:10:57 - Let's get building our components!<mark>**\
+**0:18:00 - Installing packages using Yarn**\
+**0:18:22 - Building the Header component**\
+**0:19:57 - Building the Content component**\
+**0:20:37 - Building the Sidebar component**\
 0:28:27 - Adding Firebase\
 0:40:32 - Adding our React hooks (useState, useEffect)\
 0:49:57 - Adding our function helpers\
