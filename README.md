@@ -2,7 +2,7 @@
     building Todoist From Scratch - React Tutorial - Learn React in 2021
 # author:
     Karl Hadwen
-    ## chanel: ✅ https://bit.ly/CognitiveSurge
+    ## chanel: ✅ <https://bit.ly/CognitiveSurge>
 # description:
 "In this video, we're going to be creating the popular Todoist list application (https://todoist.com) from scratch using React (Custom Hooks, Context), Firebase & React Testing Library (unit & integration testing). 
 Besides the latter technologies, we will style the application using SCSS (CSS) and following the BEM naming methodology. 
