@@ -16,7 +16,7 @@ Workflow: VSCode (GitHub pro theme), iTerm2, Lighthouse (for accessibility testi
 0:05:00 - Installing create react app\
 0:07:15 - Clearing out what we don't need from create react app\
 
-<span style="background-color: #F0F8FF">0:10:57 - Let's get building our components!</span>\
+== 0:10:57 - Let's get building our components! ==\
 0:18:00 - Installing packages using Yarn\
 0:18:22 - Building the Header component\
 0:19:57 - Building the Content component\
