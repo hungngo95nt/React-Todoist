@@ -1,8 +1,8 @@
-#timeline:
+# timeline:
     0:07:15
-#content:
+# content:
     Clearing out what we don't need from create react app
-#structures:
+# structures:
     -src
         __tests__
         components
@@ -10,5 +10,5 @@
         context
         helpers
         hooks
-#notes:
+# notes:
     
