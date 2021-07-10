@@ -1,8 +1,6 @@
-# project:
-    building Todoist From Scratch - React Tutorial - Learn React in 2021
-# author:
-    Karl Hadwen
-    ## chanel: ✅ <https://bit.ly/CognitiveSurge>
+# project: building Todoist From Scratch - React Tutorial - Learn React in 2021
+# author: Karl Hadwen
+# chanel: ✅ (https://bit.ly/CognitiveSurge)
 # description:
 "In this video, we're going to be creating the popular Todoist list application (https://todoist.com) from scratch using React (Custom Hooks, Context), Firebase & React Testing Library (unit & integration testing). 
 Besides the latter technologies, we will style the application using SCSS (CSS) and following the BEM naming methodology. 
@@ -10,7 +8,7 @@ I will also make sure that this application is fully responsive. In this video I
 We will start by initialising the application using create-react-app as our base, and then build out the application using React (Custom Hooks, Context), Firebase & React Testing Library (unit & integration testing)! I'm super excited to build this React application (did I mention we will be adding dark mode?!), so let's get going! "
 - Karl Hadwen -
 # 🖥️ Technologies used:
-Languages/Libraries: React (create react app), React Context, React Hooks, React Testing Library, SCSS, BEM, JavaScript
+Languages/Libraries: React (create react app), React Context, React Hooks, React Testing Library, SCSS, BEM, JavaScript\
 Workflow: VSCode (GitHub pro theme), iTerm2, Lighthouse (for accessibility testing)
 # ⏳ timeline:
 0:00:00 - Introduction (What is Todoist?), tech stack talk\
